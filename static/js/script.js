@@ -20,7 +20,7 @@ function reset(){
 
 function generateCat(){
     let img = document.createElement("img");
-    img.src = 'https://media.tenor.com/images/2b1e25451dbcd13cc08280c82ea762b3/tenor.gif';
+    img.src = 'https://media.tenor.com/images/47b81948be5023555549c01d88ae3289/tenor.gif';;
     document.getElementById("flex-cat-gen").appendChild(img);
 }
 
